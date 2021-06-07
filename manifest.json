@@ -1,0 +1,15 @@
+{
+  "name": "Blue contributions",
+  "description": "GitHub contributions extension!",
+  "version": "1.0",
+  "manifest_version": 3,
+  "content_scripts": [{
+    "matches": ["https://github.com/mizuki-n-2*"],
+    "css": [
+      "main.css"
+    ]
+  }],
+  "icons": {
+    "128": "blue.png"
+  }
+}

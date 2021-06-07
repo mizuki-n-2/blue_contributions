@@ -1,0 +1,15 @@
+.ContributionCalendar-day[data-level="0"] {
+  fill: rgb(255, 255, 255) !important;
+}
+.ContributionCalendar-day[data-level="1"] {
+  fill: rgb(164, 198, 255) !important;
+}
+.ContributionCalendar-day[data-level="2"] {
+  fill: rgb(117, 169, 255) !important;
+}
+.ContributionCalendar-day[data-level="3"] {
+  fill: rgb(70, 137, 255) !important;
+}
+.ContributionCalendar-day[data-level="4"] {
+  fill: rgb(0, 95, 255) !important;
+}
